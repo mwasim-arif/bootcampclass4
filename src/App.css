@@ -1,8 +1,11 @@
-.box {
+.bold {
   height: 500px;
   background-color: blueviolet;
 }
 .dayLight {
   background-color: darkgreen;
-  
+
+}
+.advan {
+  background-color: darkorange;
 }
